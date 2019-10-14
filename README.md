@@ -6,7 +6,7 @@
 * npm latest version
 
 ## To execute the application:
-* Go to the 'front' folder
+* Go to the 'ZapSharedApp' folder
 * Install npm
     > ```sudo npm install (or sudo npm install --unsafe-perm)```
 * Run npm
