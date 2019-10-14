@@ -8,6 +8,6 @@
 ## To execute the application:
 * Go to the 'front' folder
 * Install npm:
-    ´´´sudo npm install (or sudo npm install --unsafe-perm) ´´´
+    ```sudo npm install (or sudo npm install --unsafe-perm)```
 * Run npm:
-    ´´´sudo npm start´´´
+    ```sudo npm start```
