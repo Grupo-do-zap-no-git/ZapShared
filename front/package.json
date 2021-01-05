@@ -41,7 +41,7 @@
     "@material-ui/lab": "^4.0.0-alpha.19",
     "@material-ui/pickers": "^3.1.2",
     "@material-ui/styles": "^4.2.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.17.0",
     "chart.js": "^2.7.3",
     "clsx": "^1.0.4",
